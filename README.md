@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 ## Lesson-26-complete
 
 In this repository, all our components have been converted to styled-components!
 
+=======
+## Lesson-23
+
+We have now created our collection page and converted our shop items data over from an array to an object to better leverage our url parameters! Converting arrays over to objects to store data is called data-normalization and it makes searching for specific elements in our code much easier and efficient!
+>>>>>>> 80a2c17db4d0f36f9bc6b72e3333025253fa6f20
 
 # How to fork and clone
 
@@ -25,6 +31,7 @@ In your terminal after you clone your project down, remember to run either `yarn
 Remember to replace the `config` variable in your `firebase.utils.js` with your own config object from the firebase dashboard! Navigate to the project settings and scroll down to the config code. Copy the object in the code and replace the variable in your cloned code.
 
 ![alt text](https://i.ibb.co/6ywMkBf/Screen-Shot-2019-07-01-at-11-35-02-AM.png "image to firebase config")
+<<<<<<< HEAD
 
 
 ## Set your stripe publishable key 
@@ -117,3 +124,5 @@ heroku open
 ```
 
 This will open up our browser and take us to our newly deployed Heroku project!
+=======
+>>>>>>> 80a2c17db4d0f36f9bc6b72e3333025253fa6f20
